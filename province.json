@@ -1,0 +1,871 @@
+Provinces:[
+    {
+        province num:1
+        Name:"province 1"
+        Headquarter:"Biratnagar"
+        Districts:[
+            Name:"Jhapa"
+            Local Levels:[
+                {
+                    SN :1,
+                    Name :"Mechinagar",
+                    Type:"Municipality",
+                    No of wards:15
+                },
+                {
+                    SN :2,
+                    Name :"Damak",
+                    Type:"Municipality",
+                    No of wards:10
+                },
+                {
+                    SN :3,
+                    Name :"Kankai",
+                    Type:"Municipality",
+                    No of wards:9
+                },
+                {
+                    SN :4,
+                    Name :"Bhadrapur",
+                    Type:"Municipality",
+                    No of wards:10
+                },
+                {
+                    SN :5,
+                    Name :"Arjundhara",
+                    Type:"Municipality",
+                    No of wards:11
+                },
+                {
+                    SN :6,
+                    Name :"Shivasataxi",
+                    Type:"Municipality",
+                    No of wards:11
+                },
+                {
+                    SN :7,
+                    Name :"Gauradaha",
+                    Type:"Municipality",
+                    No of wards:9
+                },
+                {
+                    SN :8,
+                    Name :"Birtamod",
+                    Type:"Municipality",
+                    No of wards:10
+                },
+                {
+                    SN :9,
+                    Name :"Kamal",
+                    Type:"VDC",
+                    No of wards:7
+                },
+                {
+                    SN :10,
+                    Name :"Gaurigunj",
+                    Type:"VDC",
+                    No of wards:6
+                },
+                {
+                    SN :11,
+                    Name :"Baradashi",
+                    Type:"VDC",
+                    No of wards:7
+                },
+                {
+                    SN :12,
+                    Name :"Jhapa",
+                    Type:"VDC",
+                    No of wards:7
+                },
+                {
+                    SN :13,
+                    Name :"Buddhashanti",
+                    Type:"VDC",
+                    No of wards:7
+                },
+                {
+                    SN :14,
+                    Name :"Haldiwari",
+                    Type:"VDC",
+                    No of wards:5
+                },
+                {
+                    SN :15,
+                    Name :"Kachankawal",
+                    Type:"VDC",
+                    No of wards:7
+                },
+                Name:"Illam"
+                Local Levels:[
+                    {
+                        SN :1,
+                        Name :"Illam",
+                        Type:"Municipality",
+                        No of wards:12
+                    },
+                    {
+                        SN :2,
+                        Name :"Deumai",
+                        Type:"Municipality",
+                        No of wards:9
+                    },
+                    {
+                        SN :3,
+                        Name :"Mai",
+                        Type:"Municipality",
+                        No of wards:10
+                    },
+                    {
+                        SN :4,
+                        Name :"Suryaday",
+                        Type:"Municipality",
+                        No of wards:14
+                    },
+                    {
+                        SN :5,
+                        Name :"Faakfhothum",
+                        Type:"VDC",
+                        No of wards:7
+                    },
+                    {
+                        SN :6,
+                        Name :"Chulachuli",
+                        Type:"VDC",
+                        No of wards:6
+                    },
+                    {
+                        SN :7,
+                        Name :"Maijogmai",
+                        Type:"VDC",
+                        No of wards:6
+                    },
+                    {
+                        SN :8,
+                        Name :"Mangsebung",
+                        Type:"VDC",
+                        No of wards:6
+                    },
+                    {
+                        SN :9,
+                        Name :"Rong",
+                        Type:"VDC",
+                        No of wards:6
+                    },
+                    {
+                        SN :10,
+                        Name :"Sandakpur",
+                        Type:"VDC",
+                        No of wards:7
+                    },
+                    Name:"Panchthar"
+                Local Levels:[
+                    {
+                        SN :1,
+                        Name :"Fidim",
+                        Type:"Municipality",
+                        No of wards:14
+                    },
+                    {
+                        SN :2,
+                        Name :"Falelung",
+                        Type:"VDC",
+                        No of wards:8
+                    },
+                    {
+                        SN :3,
+                        Name :"Flgunand",
+                        Type:"VDC",
+                        No of wards:7
+                    },
+                    {
+                        SN :4,
+                        Name :"Hilihang",
+                        Type:"VDC",
+                        No of wards:7
+                    },
+                    {
+                        SN :5,
+                        Name :"Kummayak",
+                        Type:"VDC",
+                        No of wards:7
+                    },
+                    {
+                        SN :6,
+                        Name :"Miklajung",
+                        Type:"VDC",
+                        No of wards:8
+                    },
+                    {
+                        SN :7,
+                        Name :"Tumbewa",
+                        Type:"VDC",
+                        No of wards:7
+                    },
+                    {
+                        SN :8,
+                        Name :"Yangorak",
+                        Type:"VDC",
+                        No of wards:6
+                    },
+                    Name:"Taplejung"
+                Local Levels:[
+                    {
+                        SN :1,
+                        Name :"Fungling",
+                        Type:"Municipality",
+                        No of wards:11
+                    },
+                    {
+                        SN :2,
+                        Name :"Aathrai Triveni",
+                        Type:"VDC",
+                        No of wards:5
+                    },
+                    {
+                        SN :3,
+                        Name :"Fattanglung",
+                        Type:"VDC",
+                        No of wards:7
+                    },
+                    {
+                        SN :4,
+                        Name :"Mikwakhola",
+                        Type:"VDC",
+                        No of wards:5
+                    },
+                    {
+                        SN :5,
+                        Name :"Meringden",
+                        Type:"VDC",
+                        No of wards:6
+                    },
+                    {
+                        SN :6,
+                        Name :"Maiwakhola",
+                        Type:"VDC",
+                        No of wards:5
+                    },
+                    {
+                        SN :7,
+                        Name :"Yangorak",
+                        Type:"VDC",
+                        No of wards:6
+                    },
+                    {
+                        SN :8,
+                        Name :"Sirijanga",
+                        Type:"VDC",
+                        No of wards:8
+                    },
+                    {
+                        SN:9,
+                        Name:"Sidingwa",
+                        Type:"VDC",
+                        No of wards:7
+
+                    },
+                    Name:"Morang"
+            Local Levels:[
+                {
+                    SN :1,
+                    Name :"Biratnagar",
+                    Type:"Metropolitan",
+                    No of wards:19
+                },
+                {
+                    SN :2,
+                    Name :"Belbari",
+                    Type:"Municipality",
+                    No of wards:11
+                },
+                {
+                    SN :3,
+                    Name :"Lotang",
+                    Type:"Municipality",
+                    No of wards:9
+                },
+                {
+                    SN :4,
+                    Name :"Pathari Sanisari",
+                    Type:"Municipality",
+                    No of wards:10
+                },
+                {
+                    SN :5,
+                    Name :"Rangeli",
+                    Type:"Municipality",
+                    No of wards:9
+                },
+                {
+                    SN :6,
+                    Name :"Ratuwamai",
+                    Type:"Municipality",
+                    No of wards:10
+                },
+                {
+                    SN :7,
+                    Name :"Sunorsi",
+                    Type:"Municipality",
+                    No of wards:9
+                },
+                {
+                    SN :8,
+                    Name :"Urlawari",
+                    Type:"Municipality",
+                    No of wards:9
+                },
+                {
+                    SN :9,
+                    Name :"Sundarharaicha",
+                    Type:"Municipality",
+                    No of wards:12
+                },
+                {
+                    SN :10,
+                    Name :"Budiganga",
+                    Type:"VDC",
+                    No of wards:7
+                },
+                {
+                    SN :11,
+                    Name :"Dhanpalthan",
+                    Type:"VDC",
+                    No of wards:7
+                },
+                {
+                    SN :12,
+                    Name :"Gramthan",
+                    Type:"VDC",
+                    No of wards:7
+                },
+                {
+                    SN :13,
+                    Name :"Jahada",
+                    Type:"VDC",
+                    No of wards:7
+                },
+                {
+                    SN :14,
+                    Name :"Kanepokhari",
+                    Type:"VDC",
+                    No of wards:7
+                },
+                {
+                    SN :15,
+                    Name :"Kathhari",
+                    Type:"VDC",
+                    No of wards:7
+                },
+                {
+                    SN :16,
+                    Name :"Kerawari",
+                    Type:"VDC",
+                    No of wards:10
+                },
+                {
+                    SN :17,
+                    Name :"Miklajung",
+                    Type:"VDC",
+                    No of wards:9
+                },
+                Name:"Sunsari"
+            Local Levels:[
+                {
+                    SN :1,
+                    Name :"Ithari",
+                    Type:"Sub-Metropolitan",
+                    No of wards:20
+                },
+                {
+                    SN :2,
+                    Name :"Dharan",
+                    Type:"Sub-Municipality",
+                    No of wards:20
+                },
+                {
+                    SN :3,
+                    Name :"Inwari",
+                    Type:"Municipality",
+                    No of wards:10
+                },
+                {
+                    SN :4,
+                    Name :"Dhuhawi",
+                    Type:"Municipality",
+                    No of wards:12
+                },
+                {
+                    SN :5,
+                    Name :"Ramdhoni",
+                    Type:"Municipality",
+                    No of wards:9
+                },
+                {
+                    SN :6,
+                    Name :"Baraha",
+                    Type:"Municipality",
+                    No of wards:11
+                },
+                {
+                    SN :7,
+                    Name :"Debangunj",
+                    Type:"Municipality",
+                    No of wards:7
+                },
+                {
+                    SN :8,
+                    Name :"Koshi",
+                    Type:"VDC",
+                    No of wards:8
+                },
+                {
+                    SN :9,
+                    Name :"Ghadi",
+                    Type:"VDC",
+                    No of wards:6
+                },
+                {
+                    SN :10,
+                    Name :"Barju",
+                    Type:"VDC",
+                    No of wards:6
+                },
+                {
+                    SN :11,
+                    Name :"Bokhraha",
+                    Type:"VDC",
+                    No of wards:8
+                },
+                {
+                    SN :12,
+                    Name :"Harinagar",
+                    Type:"VDC",
+                    No of wards:7
+                },
+                Name:"Dhankuta"
+                Local Levels:[
+                    {
+                        SN :1,
+                        Name :"Pakhribas",
+                        Type:"Metropolitan",
+                        No of wards:10
+                    },
+                    {
+                        SN :2,
+                        Name :"Dhankuta",
+                        Type:"Municipality",
+                        No of wards:10
+                    },
+                    {
+                        SN :3,
+                        Name :"Mahalaxmi",
+                        Type:"Municipality",
+                        No of wards:9
+                    },
+                    {
+                        SN :4,
+                        Name :"Sangurigudi",
+                        Type:"VDC",
+                        No of wards:10
+                    },
+                    {
+                        SN :5,
+                        Name :"Khalsa Chintang Sahidbhumi",
+                        Type:"VDC",
+                        No of wards:7
+                    },
+                    {
+                        SN :6,
+                        Name :"Chaubise",
+                        Type:"VDC",
+                        No of wards:8
+                    },
+                    {
+                        SN :7,
+                        Name :"Chathar Jorpati",
+                        Type:"VDC",
+                        No of wards:6
+                    },
+                    Name:"Bhojpur"
+                    Local Levels:[
+                        {
+                            SN :1,
+                            Name :"Bhojpur",
+                            Type:"Municipality",
+                            No of wards:12
+                        },
+                        {
+                            SN :2,
+                            Name :"Sadanand",
+                            Type:"Municipality",
+                            No of wards:14
+                        },
+                        {
+                            SN :3,
+                            Name :"Tyamkemauyum",
+                            Type:"VDC",
+                            No of wards:9
+                        },
+                        {
+                            SN :4,
+                            Name :"Ramprasad Rai",
+                            Type:"VDC",
+                            No of wards:8
+                        },
+                        {
+                            SN :5,
+                            Name :"Aarun",
+                            Type:"VDC",
+                            No of wards:7
+                        },
+                        {
+                            SN :6,
+                            Name :"Pauwadungma",
+                            Type:"VDC",
+                            No of wards:6
+                        },
+                        {
+                            SN :7,
+                            Name :"Salpasiloxo",
+                            Type:"VDC",
+                            No of wards:6
+                        },
+                        {
+                            SN :8,
+                            Name :"Aaamchok",
+                            Type:"VDC",
+                            No of wards:10
+                        },
+                        {
+                            SN:9,
+                            Name:"Hatuwaghadi",
+                            Type:"VDC",
+                            No of wards:9
+    
+                        },
+                        Name:"Sankhuwasabha"
+                    Local Levels:[
+                        {
+                            SN :1,
+                            Name :"Chainpur",
+                            Type:"Municipality",
+                            No of wards:11
+                        },
+                        {
+                            SN :2,
+                            Name :"Dharmadevi",
+                            Type:"Municipality",
+                            No of wards:9
+                        },
+                        {
+                            SN :3,
+                            Name :"Khadwari",
+                            Type:"Municipality",
+                            No of wards:11
+                        },
+                        {
+                            SN :4,
+                            Name :"Madhi",
+                            Type:"Municipality",
+                            No of wards:9
+                        },
+                        {
+                            SN :5,
+                            Name :"Panchkhapan",
+                            Type:"Municipality",
+                            No of wards:9
+                        },
+                        {
+                            SN :6,
+                            Name :"Bhotkhola",
+                            Type:"VDC",
+                            No of wards:5
+                        },
+                        {
+                            SN :7,
+                            Name :"Chichila",
+                            Type:"VDC",
+                            No of wards:5
+                        },
+                        {
+                            SN :8,
+                            Name :"Makalu",
+                            Type:"VDC",
+                            No of wards:6
+                        },
+                        {
+                            SN:9,
+                            Name:"Silichong",
+                            Type:"VDC",
+                            No of wards:5
+    
+                        },
+
+                        Name:"Solukhumbu"
+                    Local Levels:[
+                        {
+                            SN :1,
+                            Name :"Soludhudkunda",
+                            Type:"Municipality",
+                            No of wards:10
+                        },
+                        {
+                            SN :2,
+                            Name :"Dhudkhoshi",
+                            Type:"VDC",
+                            No of wards:7
+                        },
+                        {
+                            SN :3,
+                            Name :"Khumbu Pasanglamu",
+                            Type:"VDC",
+                            No of wards:5
+                        },
+                        {
+                            SN :4,
+                            Name :"Dhudkausika",
+                            Type:"VDC",
+                            No of wards:9
+                        },
+                        {
+                            SN :5,
+                            Name :"Nechasalyan",
+                            Type:"VDC",
+                            No of wards:6
+                        },
+                        {
+                            SN :6,
+                            Name :"Mahakulung",
+                            Type:"VDC",
+                            No of wards:5
+                        },
+                        {
+                            SN :7,
+                            Name :"Likhu Pikhe",
+                            Type:"VDC",
+                            No of wards:5
+                        },
+                        {
+                            SN :8,
+                            Name :"Sotang",
+                            Type:"VDC",
+                            No of wards:5
+                        },
+                        Name:"Khotang"
+                    Local Levels:[
+                        {
+                            SN :1,
+                            Name :"Halesi Tuwachung",
+                            Type:"Municipality",
+                            No of wards:11
+                        },
+                        {
+                            SN :2,
+                            Name :"Rupakot Majuwagadi",
+                            Type:"Municipality",
+                            No of wards:15
+                        },
+                        {
+                            SN :3,
+                            Name :"Yeselukharka",
+                            Type:"VDC",
+                            No of wards:7
+                        },
+                        {
+                            SN :4,
+                            Name :"Lamidhada",
+                            Type:"VDC",
+                            No of wards:6
+                        },
+                        {
+                            SN :5,
+                            Name :"Jantedunga",
+                            Type:"VDC",
+                            No of wards:6
+                        },
+                        {
+                            SN :6,
+                            Name :"Khotehang",
+                            Type:"VDC",
+                            No of wards:9
+                        },
+                        {
+                            SN :7,
+                            Name :"Kepilasghadi",
+                            Type:"VDC",
+                            No of wards:7
+                        },
+                        {
+                            SN :8,
+                            Name :"Diprung",
+                            Type:"VDC",
+                            No of wards:7
+                        },
+                        {
+                            SN:9,
+                            Name:"Sakela",
+                            Type:"VDC",
+                            No of wards:5
+    
+                        },
+                        {
+                            SN:10,
+                            Name:"Warahapokhari",
+                            Type:"VDC",
+                            No of wards:6
+    
+                        },
+
+                        Name:"Udayapur"
+                    Local Levels:[
+                        {
+                            SN :1,
+                            Name :"Katari",
+                            Type:"Municipality",
+                            No of wards:14
+                        },
+                        {
+                            SN :2,
+                            Name :"Chaudandigadi",
+                            Type:"Municipality",
+                            No of wards:10
+                        },
+                        {
+                            SN :3,
+                            Name :"Triyuga",
+                            Type:"Municipality",
+                            No of wards:16
+                        },
+                        {
+                            SN :4,
+                            Name :"Welaka",
+                            Type:"Municipality",
+                            No of wards:9
+                        },
+                        {
+                            SN :5,
+                            Name :"Udayapurgadi",
+                            Type:"VDC",
+                            No of wards:8
+                        },
+                        {
+                            SN :6,
+                            Name :"Tapli",
+                            Type:"VDC",
+                            No of wards:5
+                        },
+                        {
+                            SN :7,
+                            Name :"Rautamai",
+                            Type:"VDC",
+                            No of wards:8
+                        },
+                        {
+                            SN :8,
+                            Name :"Sunkoshi",
+                            Type:"VDC",
+                            No of wards:5
+                        },
+
+                        Name:"Terhathum"
+                    Local Levels:[
+                        {
+                            SN :1,
+                            Name :"Mayanglung",
+                            Type:"Municipality",
+                            No of wards:10
+                        },
+                        {
+                            SN :2,
+                            Name :"Laligurans",
+                            Type:"Municipality",
+                            No of wards:9
+                        },
+                        {
+                            SN :3,
+                            Name :"Aathrai",
+                            Type:"VDC",
+                            No of wards:7
+                        },
+                        {
+                            SN :4,
+                            Name :"Xathar",
+                            Type:"VDC",
+                            No of wards:6
+                        },
+                        {
+                            SN :5,
+                            Name :"Fedap",
+                            Type:"VDC",
+                            No of wards:5
+                        },
+                        {
+                            SN :6,
+                            Name :"Menchayam",
+                            Type:"VDC",
+                            No of wards:6
+                        },
+
+                        Name:"Okhaldhunga"
+                        Local Levels:[
+                            {
+                                SN :1,
+                                Name :"Siddhicharan",
+                                Type:"Municipality",
+                                No of wards:12
+                            },
+                            {
+                                SN :2,
+                                Name :"Khijidemba",
+                                Type:"VDC",
+                                No of wards:9
+                            },
+                            {
+                                SN :3,
+                                Name :"Champadevi",
+                                Type:"VDC",
+                                No of wards:10
+                            },
+                            {
+                                SN :4,
+                                Name :"Chingsakhugedi",
+                                Type:"VDC",
+                                No of wards:8
+                            },
+                            {
+                                SN :5,
+                                Name :"Manevanjyang",
+                                Type:"VDC",
+                                No of wards:9
+                            },
+                            {
+                                SN :6,
+                                Name :"Molung",
+                                Type:"VDC",
+                                No of wards:8
+                            },
+                            {
+                                SN :7,
+                                Name :"Likhu",
+                                Type:"VDC",
+                                No of wards:9
+                            },
+                            {
+                                SN :8,
+                                Name :"Sunkoshi",
+                                Type:"VDC",
+                                No of wards:10
+                            },
+
+                    
+
+\
+
+
+
+
+            ]
+        ]
+    }
+]
